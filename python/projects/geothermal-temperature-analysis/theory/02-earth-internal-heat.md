@@ -1,5 +1,4 @@
-bash
-cat > /mnt/user-data/outputs/02-earth-internal-heat.md << 'EOF'
+
 # Earth's Internal Heat
 
 ## Learning Objectives
